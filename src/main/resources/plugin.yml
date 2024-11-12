@@ -1,0 +1,4 @@
+name: ParticleGrams
+version: '${project.version}'
+main: hydrocks.particlegrams.ParticleGrams
+api-version: '1.20'
