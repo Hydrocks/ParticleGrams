@@ -1,4 +1,4 @@
-package hydrocks.hydroac.config;
+package hydrocks.particlegrams.core.storage;
 
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;
